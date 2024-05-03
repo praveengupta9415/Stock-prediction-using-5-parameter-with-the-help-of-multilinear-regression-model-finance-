@@ -1,0 +1,1 @@
+# Stock-prediction-using-5-parameter-with-the-help-of-multilinear-regression-model-finance-
